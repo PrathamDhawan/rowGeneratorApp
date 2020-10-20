@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Row Generator</string>
+    <string name="button">Show</string>
+    <string name="number"> </string>
+    <string name="textview">TextView</string>
+    <string name="enter_number_of_news_to_be_shown">Enter number of news to be shown</string>
+    <string name="generate_rows">Generate Rows</string>
+    <string name="enter_number_of_rows_to_generate">Enter number of rows to generate</string>
+    <string name="_1">1</string>
+</resources>
